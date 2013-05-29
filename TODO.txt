@@ -1,1 +1,1 @@
-Nothing to do.
+Learn about merge conflicts
