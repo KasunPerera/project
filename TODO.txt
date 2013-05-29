@@ -1,1 +1,2 @@
 Learn about merge conflicts
+Install Git on windows
