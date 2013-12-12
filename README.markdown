@@ -1,4 +1,4 @@
-# Fake project to learn Git (May 2013)
+# Fake project (May 2013)
 
 changed!
 
